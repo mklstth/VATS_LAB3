@@ -1,0 +1,1 @@
+In main.cpp, please uncomment the lines according to your OpenCV version (2.4 or 3.1)
